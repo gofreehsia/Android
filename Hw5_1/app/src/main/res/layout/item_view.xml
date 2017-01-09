@@ -14,7 +14,7 @@
 
     <ImageView
         android:id="@+id/ivPhone"
-        android:layout_height="100dp"
+        android:layout_height="120dp"
         android:layout_width="80dp"
         android:src="@drawable/asusz2laser"
 
